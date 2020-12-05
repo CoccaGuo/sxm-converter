@@ -1,5 +1,5 @@
 # SPM *.sxm file to .png/.jpg file convertor
-This tool aims to convert .sxm files to .png/.jpg(picture) files easily.
+This tool aims to convert .sxm files (used by Nanonis instruments) to .png/.jpg(picture) files easily.
 ## usage
 
 ```python
